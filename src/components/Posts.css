@@ -1,0 +1,126 @@
+.image{
+    width: 692px;
+    height: 220px;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.image img{
+    width: 100%;
+}
+
+.content{
+    max-width: 692px;
+}
+
+.topic{
+    max-width: 600px;
+    height: 60px;
+}
+
+.info{
+    color: rgba(92, 92, 92, 1);
+}
+
+.share{
+    margin-bottom: 20px;
+}
+
+.view{
+    margin-left: 259px;
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18.2px;
+    text-align: right;
+}
+
+.details{
+    font-family: IBM Plex Sans;
+    font-size: 15px;
+    line-height: 19.5px;
+    text-align: left;
+}
+
+.loc{
+    margin-left: 100px;
+}
+
+.button{
+    width: 100%;
+}
+
+.current{
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    line-height: 18.2px;
+    text-align: left;
+}
+
+.location{
+    width: 300px;
+}
+
+.curr-loc{
+    font-size: 18px;
+}
+
+.warning{
+    color: grey;
+}
+
+.mr{
+    margin-right: 30px;
+}
+
+.loc-space{
+    margin-left: 3rem;
+}
+
+.pen{
+    border: none;
+}
+
+.recommendation{
+    width: 240px;
+}
+
+.rec-text{
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    line-height: 18.2px;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+
+.f-name{
+    width: 104px;
+    height: 19px;
+    top: 394px;
+    left: 1043px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.f-btn{
+    border-color: white;
+    border-radius: 14px 14px 14px 14px;
+    opacity: 0px;
+    margin-left: 50px;
+}
+
+.filter{
+    font-family: IBM Plex Sans;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16.9px;
+    text-align: left;
+
+}
+
+.create-write-post{
+    height: 54px;
+    width: 54px;
+    background: linear-gradient(180deg, #ff5c5c, #f0568a);
+    filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, .08)) drop-shadow(0px 2px 4px rgba(0, 0, 0, .18));
+}

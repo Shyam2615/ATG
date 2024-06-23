@@ -1,0 +1,22 @@
+.Main {
+    height: 440px;
+    background: 
+        linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%),
+        url(https://miro.medium.com/v2/resize:fit:1128/1*2LJ0pUOI21TwlbHYBMqlMQ.png) center center / cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.content{
+    margin-bottom: 80px;
+}
+
+.sm-nav{
+    justify-content: space-around;
+}
+
+@media (max-width:990px) {
+    .Main{
+        justify-content: space-between;
+    }
+}
